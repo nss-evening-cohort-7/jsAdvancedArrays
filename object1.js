@@ -14,7 +14,7 @@ var players = [
         name: "Rick Sanchez",
         scores: [99, 0]
     }
-]; // Displays "Bill"
+];
 
 //declare flag variables
 var maxTotal = 0;
